@@ -1,7 +1,6 @@
 # Jesús Eduardo Ramírez Cota - 165732
 # Programa que imprime los años bisiestos entre dos años dados.
 
-
 año = 0
 año2 = 0
 año = int(input("Indique el primer año: "))
